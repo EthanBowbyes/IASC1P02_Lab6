@@ -1,0 +1,49 @@
+body {
+    background-color: green;
+}
+#wrapper{
+	background-color:#FFB6C1;
+	width:400px;
+	margin:0 auto;
+	height:200px;
+}
+#header{
+	height:100px;
+	text-align:center;
+	background:red;
+	width:800px;
+}
+#nav1{
+	background:#FFB6C1;
+	float:left;
+	width:800px;
+	height:30px;
+	padding:5px;
+	margin-right: 200px;
+}
+#nav2{  
+	width:790px;
+	height:30px;
+	padding:5px;
+	text-align:left;
+	margin-right: 200px;
+    background: orange;	
+	right:100px;
+	/* THIS ONE IS SO FUSTRATING*/
+}
+#leftbody{
+	float:left;
+	width:790px;
+	height: 410px;
+	background-color:blue;
+	padding:5px;
+
+}
+#bottom{
+	text-align:left;
+	height:100px;
+	width:800px;
+	clear:both;
+	background: yellow;
+
+}
